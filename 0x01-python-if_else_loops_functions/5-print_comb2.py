@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-for a in range(1, 100):
+for a in range(0, 100):
     if a == 99:
         print("{}".format(a))
     else:
