@@ -14,6 +14,6 @@ if __name__ == "__main__":
         print(f"{rcount} arguments:")
         for a in range(1, count):
             print(f"{a}: {elements[a]}")
-    
+
     else:
         print(f"0 arguments.")
