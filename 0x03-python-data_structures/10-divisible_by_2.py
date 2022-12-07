@@ -8,4 +8,4 @@ def divisible_by_2(my_list=[]):
             multiple_of_2.append(True)
         else:
             multiple_of_2.append(False)
-        return multiple_of_2
+    return multiple_of_2
